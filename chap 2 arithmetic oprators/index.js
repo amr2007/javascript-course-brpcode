@@ -3,10 +3,10 @@
 let students = 30;
 // students = students+ 1; // addition
 // students = students - 1 // substraction
-// students = students * 2; 
-// students = students / 2;
-// students = students ** 2;
-// let extraStudents = students % 2;
+// students = students * 2; //multiplication
+// students = students / 2; // division
+// students = students ** 2; // exponational
+// let extraStudents = students % 2; // floor divison
 
 // students += 1;
 // students -= 1;
